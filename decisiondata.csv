@@ -1,0 +1,5 @@
+Cloud = 'sun,sun,covered,rain,rain,rain,covered,sun,sun,rain,sun,covered,covered,rain'.split(',')
+Temperature = 'hot,hot,hot,good,fresh,fresh,fresh,good,fresh,good,good,good,hot,good'.split(',')
+Humidity = 'high,high,high,high,normal,normal,normal,high,normal,normal,normal,high,normal,high'.split(',')
+Wind = 'flase,true,false,false,false,true,true,false,false,false,true,true,false,true'.split(',')
+Golf = 'do not play,do not play,play,play,play,do not play,play,do not play,play,play,play,play,play,do not play'.split(',')
